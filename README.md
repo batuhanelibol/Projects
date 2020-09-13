@@ -1,6 +1,6 @@
 # Login Form
 
-[![N|Solid](https://www.bilgeadam.com/akademi/SiteAssets/BilgeAdam/Images/LogoAkademi.png)](https://www.bilgeadam.com/akademi/) 
+
 
 
 
